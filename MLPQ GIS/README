@@ -1,1 +1,9 @@
 
+MLPQ is locally created software by UNL staff.
+
+Able to conduct regular SQL queries (for the most part) and conduct GIS features as seen in the presentation based on the txt file.
+
+The txt file was created using MATLAB to pin point dots on a loaded image of each state of the empire
+and laod the respecitive coordinates into the file for each map representation.
+
+Including, correct assignments and parsing to identify each map, ruler, and general for their correct time periods.
